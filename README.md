@@ -1,8 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+View Demo :  https://cineverseapp.vercel.app/
+ For More Visit at links
 
-Currently, two official plugins are available:
+# Home Page
+![localhost_5173_ (2)](https://github.com/getsettalk/cineverse-movie-app/assets/49394996/9ea2ad24-7b9d-4531-a39b-dec24eb34d3f)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Details page 
+![localhost_5173_movie_447365](https://github.com/getsettalk/cineverse-movie-app/assets/49394996/774621ed-192b-4ad9-aebf-763d74b8143f)
+
